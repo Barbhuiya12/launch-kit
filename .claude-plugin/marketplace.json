@@ -1,0 +1,9 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "launch-kit",
+  "description": "Turn any repo into a ready-to-post launch: Show HN, Product Hunt, Reddit, X, LinkedIn, README glow-up, demo script and a 14-day plan, written from what is actually in your code.",
+  "owner": { "name": "Barbhuiya12" },
+  "plugins": [
+    { "name": "launch-kit", "description": "Repo → Show HN, Product Hunt, Reddit, X, LinkedIn, README glow-up and launch plan.", "source": "./", "category": "productivity" }
+  ]
+}

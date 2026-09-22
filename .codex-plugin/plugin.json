@@ -1,0 +1,22 @@
+{
+  "name": "launch-kit",
+  "version": "0.1.0",
+  "description": "Turn any repo into a ready-to-post launch: Show HN, Product Hunt, Reddit, X, LinkedIn, README glow-up, demo script and a 14-day plan, written from what is actually in your code.",
+  "author": { "name": "Barbhuiya12", "url": "https://github.com/Barbhuiya12" },
+  "homepage": "https://github.com/Barbhuiya12/launch-kit",
+  "repository": "https://github.com/Barbhuiya12/launch-kit",
+  "license": "MIT",
+  "keywords": ["launch", "marketing", "show-hn", "product-hunt", "readme", "skills", "codex"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Launch Kit",
+    "shortDescription": "Repo → ready-to-post launch kit",
+    "longDescription": "Turn any repo into a ready-to-post launch: Show HN, Product Hunt, Reddit, X, LinkedIn, README glow-up, demo script and a 14-day plan, written from what is actually in your code.",
+    "developerName": "Barbhuiya12",
+    "category": "Productivity",
+    "capabilities": ["Instructions"],
+    "websiteURL": "https://github.com/Barbhuiya12/launch-kit",
+    "defaultPrompt": ["Use launch-kit on this repo.", "Write my Show HN post.", "Make a launch plan for this project."],
+    "brandColor": "#F97316"
+  }
+}

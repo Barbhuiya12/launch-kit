@@ -1,0 +1,12 @@
+{
+  "name": "launch-kit",
+  "interface": { "displayName": "Launch Kit" },
+  "plugins": [
+    {
+      "name": "launch-kit",
+      "source": { "source": "url", "url": "https://github.com/Barbhuiya12/launch-kit.git", "ref": "main" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
